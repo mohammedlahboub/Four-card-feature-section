@@ -9,5 +9,5 @@
 ### Github - [mohammedlahboub](https://github.com/mohammedlahboub)
 ### Website - [MohammedLahboub.ml](https://mohammedlahboub.ml)
 ### Frontend Mentor - [@mohammedlahboub](https://www.frontendmentor.io/profile/mohammedlahboub)
-### Twitter - [@september2oo2](https://twitter.com/dataassert)
+### Twitter - [@DataAssert](https://twitter.com/dataassert)
 
